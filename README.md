@@ -1,4 +1,4 @@
-### Hi there 👋
+![Hi I am Anoop, a SharePoint developer at Content and Code](./intro.gif)
 
 <!--
 **anoopt/anoopt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
